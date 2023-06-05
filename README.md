@@ -7,8 +7,8 @@ The dataset used in this project is sourced from the UCI Machine Learning Reposi
 
 You can find the dataset and its details here.
 
-# data/: This directory contains the dataset used for training and testing the models. It is recommended to place the dataset file(s) here.
-notebooks/: This directory contains Jupyter notebooks used for data exploration, preprocessing, model training, and evaluation.
+# kidney_disease.csv: This file contains the dataset used for training and testing the models. It is recommended to place the dataset file(s) here.
+# Chronic_kidney_disease.ipynb: This directory contains Jupyter notebooks used for data exploration, preprocessing, model training, and evaluation.
 
 # Requirements
 To run the code in this repository, you need the following dependencies:
