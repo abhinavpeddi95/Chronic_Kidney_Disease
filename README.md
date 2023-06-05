@@ -17,8 +17,8 @@ Python 3.7 or above
 Required Python libraries listed in the requirements.txt file. Install them using pip install -r requirements.txt.
 
 # Usage
-Clone or download this repository to your local machine.
-Install the required dependencies as mentioned in the Requirements section.
-Place the dataset file(s) in the data/ directory.
-Explore the Jupyter notebooks in the notebooks/ directory to understand the project flow and execute code cells.
-Train and evaluate classification models using the provided notebooks.
+ Clone or download this repository to your local machine.
+ Install the required dependencies as mentioned in the Requirements section.
+ Place the dataset file(s) in the data/ directory.
+ Explore the Jupyter notebooks in the notebooks/ directory to understand the project flow and execute code cells.
+ Train and evaluate classification models using the provided notebooks.
