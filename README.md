@@ -5,7 +5,7 @@ This repository contains code and resources for a machine learning project that 
 # Dataset
 The dataset used in this project is sourced from the UCI Machine Learning Repository and consists of instances representing patient records with 24 attributes. These attributes include patient demographic information, symptoms, and laboratory test results. The target variable indicates the presence or absence of Chronic Kidney Disease.
 
-[Project 1: Exploring-the-NYC-Airbnb-Market](https://github.com/abhinavpeddi95/DA_Exploring-the-NYC-Airbnb-Market)
+[Project 1: Exploring-the-NYC-Airbnb-Market](Chronic_Kidney_Disease.ipynb)
 
 You can find the dataset and its details [here]().
 
