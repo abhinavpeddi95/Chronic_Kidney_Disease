@@ -22,3 +22,9 @@ Required Python libraries listed in the requirements.txt file. Install them usin
 3. Place the dataset file(s) in the data/ directory.
 4. Explore the Jupyter notebooks in the notebooks/ directory to understand the project flow and execute code cells.
 5. Train and evaluate classification models using the provided notebooks.
+
+# Contributing
+Contributions to this project are welcome. If you have any suggestions, bug reports, or improvements, feel free to open an issue or submit a pull request.
+
+# License
+The dataset is obtained as per MIT License. Feel free to use the code, modify it, or distribute the dataset as per the terms of the MIT license.
