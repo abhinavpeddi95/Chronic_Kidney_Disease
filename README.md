@@ -1,4 +1,4 @@
-# Chronic_Kidney_Disease
+# Chronic_Kidney_Disease classification
 
 This repository contains code and resources for a machine learning project that aims to classify instances of Chronic Kidney Disease (CKD). The project utilizes a dataset of patient health attributes to train and evaluate various classification models.
 
